@@ -1,2 +1,5 @@
 [project]
 name = Ukrainian Dishes
+
+[servers.ghpages]
+target = ghpages://MILORD877/ukrainian-dishes-school-assignment?cname=ukrainian-dishes.school-assignment.andrii.sydorenko.pp.ua
